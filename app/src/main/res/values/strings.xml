@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoReelInsta</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Customize tabs</string>
+    <string name="settings_title">Customize Feed</string>
+    <string name="webview_error_generic">Something went wrong. Pull to refresh.</string>
+    <string name="file_chooser_title">Select media</string>
+
+    <string name="pref_category_tabs_title">Hidden Tabs</string>
+    <string name="pref_hide_reels_title">Hide Reels</string>
+    <string name="pref_hide_reels_summary">Removes every Reels entry point from the Instagram UI.</string>
+    <string name="pref_hide_shop_title">Hide Shop</string>
+    <string name="pref_hide_shop_summary">Removes the Shop tab and quick links.</string>
+    <string name="pref_hide_explore_title">Hide Explore</string>
+    <string name="pref_hide_explore_summary">Hides the search/explore tab so discovery stays intentional.</string>
+    <string name="pref_hide_threads_title">Hide Threads</string>
+    <string name="pref_hide_threads_summary">Removes promotional entry points to Threads.</string>
+    <string name="pref_category_utilities_title">Utilities</string>
+    <string name="pref_clear_data_title">Reset Instagram session</string>
+    <string name="pref_clear_data_summary">Clear cookies/cache if something gets stuck.</string>
+    <string name="data_cleared_message">Instagram session reset. Please log in again.</string>
+</resources>
